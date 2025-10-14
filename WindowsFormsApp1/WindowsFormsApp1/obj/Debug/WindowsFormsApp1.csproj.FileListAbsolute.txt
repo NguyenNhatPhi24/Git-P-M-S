@@ -1,0 +1,132 @@
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\ĐỒ ÁN MÔN HỌC C#\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\win\SUA\ĐỒ ÁN MÔN HỌC C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\kha18-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\doan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\kha20-4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\ĐỒ ÁN QUẢN LÝ SINH VIÊN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_dangNhap.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapDiem.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapLop.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.form_nhapMONHOC.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_nhapThongTin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_thongtin.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ĐỒ ÁN MÔN HỌC C#\0306231202+0306231229\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
